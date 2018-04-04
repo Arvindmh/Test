@@ -1,0 +1,10 @@
+INDEX VERSION 1.130+C:\official\t24_tafj_packager\.metadata\.plugins\org.eclipse.jdt.core
+3167966888.index
+759296741.index
+2853515223.index
+1490780176.index
+443646558.index
+4241300007.index
+3335193235.index
+978595818.index
+301511476.index
