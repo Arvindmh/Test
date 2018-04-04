@@ -33,7 +33,7 @@
         <configuration>
         <localCheckout>true</localCheckout>
         <goals>clean install</goals>
-        <arguments>-DtafjHome=${tafjHomeVar} -DinsertDir=${insertDirVar} -Dlib.dir=${lib.dirVar}</arguments>
+        <arguments>-DtafjHome=${tafjHome} -DinsertDir=${insertDir} -Dlib.dir=${lib.dir}</arguments>
         <workingDirectory>${project.build.directory}/checkout</workingDirectory>
         <pomFileName>pom.xml</pomFileName>
         <useReleaseProfile>false</useReleaseProfile>
