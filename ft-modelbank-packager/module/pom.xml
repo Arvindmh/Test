@@ -19,4 +19,33 @@
          <module>../../ft-modelbank-models</module>
          <module>../../ft-modelbank-models-gen</module>
     </modules>
+    
+      <scm>
+    <developerConnection>scm:git:[fetch=]file:///C:/official/t24_tafj_packager/.git[push=]file:///C:/official/t24_tafj_packager/.git</developerConnection>
+   </scm>
+   
+  <build>
+<plugins>
+    <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-release-plugin</artifactId>
+        <version>2.5.3</version>
+        <configuration>
+        <localCheckout>true</localCheckout>
+        <goals>clean install</goals>
+        <arguments>-DtafjHome=${tafjHomeVar} -DinsertDir=${insertDirVar} -Dlib.dir=${lib.dirVar}</arguments>
+        <workingDirectory>${project.build.directory}/checkout</workingDirectory>
+        <pomFileName>pom.xml</pomFileName>
+        <useReleaseProfile>false</useReleaseProfile>
+        </configuration>
+      <dependencies>
+        <dependency>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-scm-plugin</artifactId>
+        <version>1.9.4</version>
+        </dependency>
+      </dependencies>
+  </plugin>
+</plugins>
+  </build>
 </project>
