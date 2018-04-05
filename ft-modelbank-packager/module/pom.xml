@@ -21,7 +21,7 @@
     </modules>
     
       <scm>
-    <developerConnection>scm:git:[fetch=]file:///C:/official/t24_tafj_packager/.git[push=]file:///C:/official/t24_tafj_packager/.git</developerConnection>
+    <developerConnection>scm:git:[fetch=]file:///C:/official//t24_tafj_packager/.git[push=]file:///C:/official//t24_tafj_packager/.git</developerConnection>
    </scm>
    
   <build>
