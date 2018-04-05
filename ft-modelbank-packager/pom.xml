@@ -10,7 +10,7 @@
 
     <groupId>com.odcgroup.tafj.package</groupId>
     <artifactId>ft-modelbank-packager</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
     <packaging>t24-package</packaging>
 
     <build>

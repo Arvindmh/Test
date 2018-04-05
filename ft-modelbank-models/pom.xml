@@ -10,7 +10,7 @@
 
     <groupId>com.odcgroup.tafj.package</groupId>
     <artifactId>ft-modelbank-models</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
 
     <packaging>ds-models</packaging>
 
