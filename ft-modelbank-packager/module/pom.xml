@@ -10,7 +10,7 @@
     
     <groupId>com.odcgroup.tafj.package</groupId>
     <artifactId>ft-modelbank-packager-module</artifactId>
-    <version>1.3</version>
+    <version>1.4-SNAPSHOT</version>
     <packaging>pom</packaging> 
     
     <modules>
@@ -22,7 +22,7 @@
     
       <scm>
     <developerConnection>scm:git:[fetch=]file:///C:/official/t24_tafj_packager[push=]file:///C:/official/t24_tafj_packager</developerConnection>
-     <tag>ft-modelbank-packager-module-1.3</tag>
+     <tag>ft-modelbank-packager-module-1.0</tag>
   </scm>
    
   <build>
