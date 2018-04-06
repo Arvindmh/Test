@@ -24,7 +24,7 @@
     <connection>scm:git:https://github.com:rajeshkumards/Test</connection>
         <developerConnection>scm:git:https://github.com:rajeshkumards/Test</developerConnection>
         <url>scm:git:https://github.com:rajeshkumards/Test</url>
-    <tag>HEAD</tag>
+        <tag>HEAD</tag>
   </scm>
    
   <build>
