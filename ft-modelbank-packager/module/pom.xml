@@ -37,7 +37,6 @@
         <goals>clean install</goals>
         <arguments>-DtafjHome=C:\UTP\Temenos\TAFJ -DinsertDir=C:\UTP\Temenos\t24home\default\T24.BP -Dlib.dir=C:\UTP\Temenos\jboss\modules\com\temenos\t24\main</arguments>
         <workingDirectory>${project.build.directory}/checkout</workingDirectory>
-        <pomFileName>pom.xml</pomFileName>
         <useReleaseProfile>false</useReleaseProfile>
         </configuration>
       <dependencies>
