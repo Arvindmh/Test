@@ -10,7 +10,7 @@
     
     <groupId>com.odcgroup.tafj.package</groupId>
     <artifactId>ft-modelbank-packager-module</artifactId>
-    <version>1.8</version>
+    <version>1.8-SNAPSHOT</version>
     <packaging>pom</packaging> 
     
     <modules>
@@ -21,10 +21,10 @@
     </modules>
     
       <scm>
-    <connection>scm:git:https://github.com/rajeshkumards/Test</connection>
-        <developerConnection>scm:git:https://github.com/rajeshkumards/Test</developerConnection>
-        <url>scm:git:https://github.com/rajeshkumards/Test</url>
-    <tag>ft-modelbank-packager-module-1.8</tag>
+    <connection>scm:git:https://github.com/rajeshkumards/Test.git</connection>
+        <developerConnection>scm:git:https://github.com/rajeshkumards/Test.git</developerConnection>
+        <url>scm:git:https://github.com/rajeshkumards/Test.git</url>
+    <tag>HEAD</tag>
   </scm>
    
   <build>
