@@ -21,9 +21,9 @@
     </modules>
     
       <scm>
-    <connection>scm:git:https://github.com:rajeshkumards/Test</connection>
-        <developerConnection>scm:git:https://github.com:rajeshkumards/Test</developerConnection>
-        <url>scm:git:https://github.com:rajeshkumards/Test</url>
+    <connection>scm:git:https://github.com/rajeshkumards/Test</connection>
+        <developerConnection>scm:git:https://github.com/rajeshkumards/Test</developerConnection>
+        <url>scm:git:https://github.com/rajeshkumards/Test</url>
         <tag>HEAD</tag>
   </scm>
    
