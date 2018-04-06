@@ -10,7 +10,7 @@
 
     <groupId>com.odcgroup.tafj.package</groupId>
     <artifactId>ft-modelbank-data-code</artifactId>
-    <version>1.6-SNAPSHOT</version>
+    <version>1.6</version>
     <packaging>tafj-project</packaging>
   
     <build>
