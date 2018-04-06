@@ -21,9 +21,9 @@
     </modules>
     
       <scm>
-    <connection>scm:git:file:///C:/official/t24_tafj_packager</connection>
-        <developerConnection>scm:git:file:///C:/official/t24_tafj_packager</developerConnection>
-        <url>scm:git:file:///C:/official/t24_tafj_packager</url>
+    <connection>scm:git:https://github.com/rajeshkumards/Test.git</connection>
+        <developerConnection>scm:git:https://github.com/rajeshkumards/Test.git</developerConnection>
+        <url>scm:git:https://github.com/rajeshkumards/Test.git</url>
     <tag>HEAD</tag>
   </scm>
    
@@ -51,11 +51,12 @@
 </plugins>
   </build>
   
-      <distributionManagement>
+     <!--   <distributionManagement>
         <repository>
             <id>bjb_artifacts</id>
             <name>BJB Corporate Artifact Repository</name>
             <url>file:///C:/official/t24_tafj_packager</url>
         </repository>
     </distributionManagement>
+    -->
 </project>
