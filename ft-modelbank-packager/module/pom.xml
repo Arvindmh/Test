@@ -22,7 +22,7 @@
     
       <scm>
     <developerConnection>scm:git:[fetch=]file:///C:/official/t24_tafj_packager[push=]file:///C:/official/t24_tafj_packager</developerConnection>
-     <tag>ft-modelbank-packager-module-1.0</tag>
+     <tag>REL-1.3</tag>
   </scm>
    
   <build>
