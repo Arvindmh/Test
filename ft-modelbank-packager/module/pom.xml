@@ -55,7 +55,7 @@
         <repository>
             <id>bjb_artifacts</id>
             <name>BJB Corporate Artifact Repository</name>
-            <url>https://github.com/rajeshkumards/Test.git</url>
+            <url>file:///C:/official/t24_tafj_packager</url>
         </repository>
     </distributionManagement>
 </project>
